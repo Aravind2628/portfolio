@@ -28,29 +28,6 @@ a{
   color: var(--f-primary_color);
 }
 
-/*
-.navigation {
-  background-color: rgba(0, 0, 0, 0.8);
-  display: flex;
-  position: fixed;
-  top: 2px;
-  width: 100%;
-}
-.navigation a{
-  
-  padding: 5px;
-  text-decoration: none;
-  color: white;
-  flex-grow: 1;
-  text-align: center;
-
-}
-.navigation a:hover {
-  background-color: var(--tertiary_color);
-  flex-grow: 2;
-  transition: var(--transition);
-}
-*/
 .main-content {
   margin: 10px;
 }
